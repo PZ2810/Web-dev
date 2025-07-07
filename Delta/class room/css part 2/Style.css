@@ -1,3 +1,46 @@
 *{
     font-family: "Courier New ";
 }
+h1,h3{
+    color: red;
+}
+
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: red;
+    color: white;
+}
+.upvote{
+    color:white;
+    background-color: green;
+}
+.post a{
+    color: purple;
+    background-color: yellow;
+}
+p + h3{
+    text-decoration: underline;
+
+}
+.upvote+button{
+    background-color: cornflowerblue;
+    color: darkblue;
+}
+div>input{
+    background-color: darksalmon;
+}
+input[type="text"]{
+    color:red ;
+}
+input[type="password"]{
+    color: red;
+}
+input[type]{
+    background-color: ghostwhite;
+}
+button:hover{
+    background-color: black;
+    color:white
+}
