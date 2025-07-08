@@ -44,3 +44,26 @@ button:hover{
     background-color: black;
     color:white
 }
+p:active{
+   font-weight:bold; 
+   color: green;
+}
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+.post:nth-last-of-type(2){
+    background-color: yellow;
+}
+h1::first-letter{
+    color: blue;
+}
+p::first-line{
+    color: aqua;
+}
+p::selection{
+   background-color: yellowgreen
+}
+h3{
+    background-color: yellow;
+}
