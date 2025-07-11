@@ -1,0 +1,15 @@
+div{
+    height:200px;
+    width: 500px;
+    background-color: aqua;
+  /*  border-width: 5px;
+    border-style: solid;
+    border-color:palevioletred*/
+    border:5px solid palevioletred
+}
+h1 {
+    /*border-width: 2px;
+    border-style: dashed;
+    border-color: rgb(24, 146, 20);*/
+    border: 2px dashed green;
+}
