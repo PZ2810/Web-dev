@@ -5,11 +5,33 @@ div{
   /*  border-width: 5px;
     border-style: solid;
     border-color:palevioletred*/
-    border:5px solid palevioletred
+    border:5px solid rgb(0, 0, 0);
+    border-radius:10px;
+    padding-top: 10px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+
+
 }
 h1 {
     /*border-width: 2px;
     border-style: dashed;
     border-color: rgb(24, 146, 20);*/
     border: 2px dashed green;
+    /*border-radius: 10px;*/
+    padding-top: 10px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-bottom: 10px;
+}button {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 2px solid rgb(24, 146, 20);
+    border-radius: 15px;
+   padding-left:  25px;
+   padding-right: 25px;
+    font-size: 16px;
 }
