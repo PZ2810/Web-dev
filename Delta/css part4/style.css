@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+     /*transition-duration:  1s;
+     transition-delay:  1s;*/
+     margin: 0 auto;
+     margin-top: 10px;
+     transition: margin-top 2s ease-in 0.2s;
+
+}
+/*#opacity{
+    background-color: bisque;
+    opacity: 0.5;
+}*/
+div:hover{
+    /*background-color: black;
+    border-radius: 50%;*/ 
+    margin-top: 400px;
+    background-color: black;
+}

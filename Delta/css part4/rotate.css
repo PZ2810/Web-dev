@@ -1,0 +1,26 @@
+section{
+    margin-top:500px;
+
+}
+div{
+    width: 200px;
+    height:50px;
+    text-align: center;
+    background-color: yellow;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+
+div:nth-of-type(2n){
+    background-color: rgb(214, 144, 206);
+
+}
+div:nth-of-type(3n){
+    background-color: aquamarine;
+
+}
+/*transform*/
+#one{
+    transform: rotate(45deg);
+}
