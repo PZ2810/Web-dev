@@ -33,10 +33,23 @@
 //     console.log(`welcome${firstName}`)
 // }
 
-let age =14;
-if(age>=18){
-    console.log("you can vote");
+// let age =14;
+// if(age>=18){;
 
-}else if(age<18){
-    console.log("you cannot vote");
-}
+//     console.log("you can vote");
+
+// }else if(age<18){
+//     console.log("you cannot vote");
+// }
+
+// let age =1;
+// if (age>=18);
+// if (age>=18){
+//     console.log("you can vote");
+
+// }else{
+//     console.log("you cannot vote");
+
+// }
+// let firstName=prompt("enter your name");
+// console.log(firstName)
