@@ -1,4 +1,4 @@
-// let msg ="  he   llo   "
+ // let msg ="  he   llo   "
 
 // let password =prompt("set your password");
 // console.log(password .trim());
@@ -52,3 +52,9 @@ color.splice(0,1);
 console.log(color);
 color.splice(0,1,"black","grey");
 console.log(color);
+
+//sort an array
+
+let squares=[100,81,64,49,36,25,16,4,2,1];
+//squares.sort()
+console.log(squares.sort());
