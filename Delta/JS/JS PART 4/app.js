@@ -85,7 +85,7 @@
 //do something
 //}
 
-let fruits=["mango","apple","banana","litchi","orange"];
-for(i of fruits){
-    console.log(i);
-}
+// let fruits=["mango","apple","banana","litchi","orange"];
+// for(i of fruits){
+//     console.log(i);
+// }
