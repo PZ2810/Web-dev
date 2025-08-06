@@ -30,4 +30,26 @@
 // }
 // printTable(5);
 
- 
+ //Qs 5
+
+//  function sumofNumbers(n){
+//      let Sum=0;
+//     for(let i=1 ;i<=n;i++){
+//        Sum=Sum+i;
+
+//     }
+//     console.log(Sum)
+//  }
+//   sumofNumbers(100)
+
+//Qs 6
+//  let str =["hi","hello","bye","!"];
+
+//  function concat(str){
+//     let result;
+
+//     for(let i=0;i<str.length;i++){
+//         result+=Str[i];
+//     }
+//     return result;
+//  }
