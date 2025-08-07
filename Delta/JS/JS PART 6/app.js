@@ -44,3 +44,46 @@
 // }
 // sum(1,2);
 // sum(5,7);
+
+// let odd=function(n){
+//     console.log(!(n%2==0));
+// }
+
+// let even =function(n){
+//     console.log(n%2==0);
+// }
+
+// function oddOrEvenFactory(request){
+//     if (request=="odd"){
+//         let odd=function(n){
+//     console.log(!(n%2==0));
+// }
+// return odd;
+//         }else if(request=="even"){
+//             let even =function(n){
+//     console.log(n%2==0);
+// }
+// return even;
+
+//         }else{
+//             console.log("wrong request")
+//         }
+//     }
+
+// let request="odd";
+
+//method
+
+const calculator={
+    num:55,
+    add:function(a,b){
+        return a+b;
+    },
+    sub:function(a,b){
+        return a-b;
+    },
+    mul:function(a,b){
+        return a*b;
+    }
+
+};
