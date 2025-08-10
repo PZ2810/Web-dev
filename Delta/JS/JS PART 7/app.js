@@ -21,3 +21,13 @@
 
   const sq=  (n)=>n*n;
    console.log (sq(2));
+
+   let id = setInterval( ()=>{
+    console.log("hello");
+
+   },2000);
+
+   setTimeout( ()=>{
+    clearInterval(id);
+    
+   },10000);
