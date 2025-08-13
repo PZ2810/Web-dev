@@ -23,6 +23,22 @@
 //     }
 // }
 
- function sum(...args){
-    return args.reduce((sum,el)=>sum+el);
- }
+//  function sum(...args){
+//     return args.reduce((sum,el)=>sum+el);
+//  }
+
+// let names =["tony","bruce","peter","steve","xyz","abc","pqr"];
+// // let winer=names[0];
+// let runnerup=names[1];
+// let secondRunnerup=names[2];
+
+// let [winner,runnerup,secondRunnerup,...others] =names;
+
+// const student={
+//    name:"Pranav",
+//    age:"20",
+//    subjects:["hindi","english","math","science"],
+//    username:"PZ2810",
+//    password:"abcd",
+// };
+// let {username:user,password,name,age,students,city:placelo="hyd"}=student;
