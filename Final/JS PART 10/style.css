@@ -1,4 +1,4 @@
-div{
+/* div{
     height: 100px;
     width: 500px;
     border: 1px solid black;
@@ -6,4 +6,11 @@ div{
 }
 body{
     text-align: center;
+} */
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px solid black;
 }
