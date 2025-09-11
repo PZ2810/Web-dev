@@ -74,3 +74,14 @@
 // h1.addEventListener("click",changeColor);
 
 // h3.addEventListener("click",changeColor);
+
+//  let btn=document.querySelector("button");
+
+//  btn.addEventListener("click",function(event){
+//     console.log(event);
+//     console.log("clicked")
+//  });
+
+let inp=document.querySelector("input");
+
+inp 
