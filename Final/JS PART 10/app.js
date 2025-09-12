@@ -82,6 +82,41 @@
 //     console.log("clicked")
 //  });
 
-let inp=document.querySelector("input");
+//  let inp=document.querySelector("input");
 
-inp 
+// inp.addEventListener("keyup",function(){
+//     console.log("key is pressed");
+// });
+
+// inp.addEventListener("keydown",function(event){
+//     // console.log(event.key)
+//     // console.log("key is pressed");
+//      console.log(event.code)
+//      if(event.code=="ArrowUp"){
+//         console.log("char will move up")
+//      }else{
+//         console.log("down");
+//      }
+// });
+
+// let form=document.querySelector("form");
+
+// form.addEventListener("submit",function(event){
+//    event.preventDefault();
+//    alert("abc")
+// })
+
+// form.addEventListener("submit",function(event){
+//    event.preventDefault();
+
+ 
+//    console.dir(form);
+
+
+   // let inp =document.querySelector("input");
+   // console.dir(inp)
+   // console.log(inp.value)
+
+// });
+
+let user =document.querySelector;
